@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdul-KMC
 - 👀 I’m interested in Research and Development
-- 🌱 I’m currently learning Computer Networking, Software Development etc.
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Software Development Project
 - 📫 Reach me at LinkedIn www.linkedin.com/in/abdul-hadi-716b01208
 
